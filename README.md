@@ -7,7 +7,7 @@ This project was pulled from BLC in 2012, and modified by me and a few other con
 locally, not under GitHub.
 The meat of my fun can be viewed here: \src\scripts\Custom (My knowledge of coding,
 coding conventions, comments, and all of the sorts, was minimal as this was my
-first exposure to coding), along with the Player.cpp file in src/game, 
+first exposure to programming), along with the Player.cpp file in src/game, 
 and all of the sql queries in the sql folder.
 
 License
