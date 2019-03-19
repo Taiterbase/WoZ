@@ -1,6 +1,6 @@
 Zifi
 -------
-This MMORPG framework was built using WoW's models and a C++ backend.
+This MMORPG framework was built using WoW's models and a C++, MySQL backend.
 This project was pulled from BLC in 2012, and modified by me and a few other contributors
 locally, not under GitHub.
 The meat of my fun can be viewed here: \src\scripts\Custom (My knowledge of coding,
