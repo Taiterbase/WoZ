@@ -15,5 +15,3 @@ License
 This is free software; you can redistribute it and/or modify it 
 under the terms of the GNU General Public License as published by the 
 Free Software Foundation; version 3 of the License.
-
-If you would like to see what this project looks like built and fleshed out on my custom server, please feel free to make an inquiry at: taitenazifi@gmail.com
