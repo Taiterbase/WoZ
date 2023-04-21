@@ -8,7 +8,7 @@ coding conventions, comments, and all of the sorts, was minimal as this was my
 first exposure to programming), along with the Player.cpp file in src/game, 
 and all of the sql queries in the sql folder.
 
-Some of my initial grievances of learning a programming language were familiarizing myself with the nuances of CMake, and the essence of debugging a failed build.  This project was birthed through strict motivation and naivety, along with countless acquaintances, friends, and companions.  
+Some of my initial grievances of learning a programming language were familiarizing myself with the nuances of CMake and debugging a failed build. This project was birthed through strict motivation and naivety, along with countless acquaintances, friends, and companions.  
 
 License
 -------
